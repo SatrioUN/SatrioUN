@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi Everyone, i'm Satrio Utomo Noerwahyu👋
+
+![SatrioUN](img/github-header-image.png)
 
 <!--
 **SatrioUN/SatrioUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [**HackerOne**](https://www.hackerone.com/)
+- 🌱 I’m currently learning **PHP** , **Python**, **Linux** and **Cyber Security**
+  👌😊
+
+![happy Hacking](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xldm0zMDZ0YmtjajhqZjYyMnh2YnkyOHlhOGIzNHljeWlweWQ3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif)
