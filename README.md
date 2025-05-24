@@ -1,6 +1,6 @@
 ## Hi Everyone, i'm Satrio Utomo Noerwahyu👋
 
-![SatrioUN](img/github-header-image.png)
+![SatrioUN](img/github-header-img.png)
 
 <!--
 **SatrioUN/SatrioUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
