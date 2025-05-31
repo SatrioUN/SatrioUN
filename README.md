@@ -3,44 +3,7 @@
 ![SatrioUN](img/github-header-image.png)
 
 
-<!-- - 🔭 I’m currently working on [HackerOne](https://www.hackerone.com/)
-- 🌱 I’m currently learning PHP , Python, Linux and Cyber Security
-  👌😊
 
-![happy Hacking](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xldm0zMDZ0YmtjajhqZjYyMnh2YnkyOHlhOGIzNHljeWlweWQ3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif)
-
-<img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/Hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white" />
-<img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" />
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white" />
-<img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
-
-##### My Skills:
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,php,laravel,kali,ubuntu,docker&perline=3)](https://skillicons.dev)
-
-##### Connect With Me:
-
-![https://instagram.com/rioocns](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![https://linkedin/in/satrioutomonoerwahyu](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://wa.me/+6289629729636](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)
-
-##### My Stats:
-
-![riosec GitHub stats](https://github-readme-stats.vercel.app/api?username=satrioun&show_icons=true&theme=ambient_gradient&locale=en) -->
 
 
 ### 💫 About Me:
@@ -71,12 +34,6 @@
 
 <p align="left">Play Games With Me</p>
 
-###
-
-<img src="https://raw.githubusercontent.com/SatrioUN/SatrioUN/output/snake.svg" alt="Snake animation" />
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SatrioUN/SatrioUN/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SatrioUN/SatrioUN/output/pacman-contribution-graph.svg">
@@ -85,3 +42,6 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/SatrioUN/SatrioUN/output/snake.svg" alt="Snake animation" />
+
+###
