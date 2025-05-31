@@ -1,4 +1,4 @@
-<!-- ## Hi Everyone, i'm Satrio Utomo Noerwahyu👋 -->
+<!-- ## Hi Everyone, i'am Satrio Utomo Noerwahyu👋 -->
 
 ![SatrioUN](img/github-header-image.png)
 
