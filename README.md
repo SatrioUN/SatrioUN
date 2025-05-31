@@ -31,17 +31,18 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SatrioUN&icon=7&color=0)](https://visitcount.itsvg.in)
 
-
 <p align="left">Play Games With Me</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/SatrioUN/SatrioUN/output/snake.svg" alt="Snake animation" />
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SatrioUN/SatrioUN/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SatrioUN/SatrioUN/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SatrioUN/SatrioUN/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/SatrioUN/SatrioUN/output/snake.svg" alt="Snake animation" />
 
 ###
