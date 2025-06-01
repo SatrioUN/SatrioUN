@@ -34,11 +34,9 @@
 <p align="left">Play Games With Me</p>
 
 ###
-
 <img src="https://raw.githubusercontent.com/SatrioUN/SatrioUN/output/snake.svg" alt="Snake animation" />
 
 ###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SatrioUN/SatrioUN/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SatrioUN/SatrioUN/output/pacman-contribution-graph.svg">
